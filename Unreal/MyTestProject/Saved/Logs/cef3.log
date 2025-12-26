@@ -1,0 +1,22 @@
+[14304:12756:1226/170837.163:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14304:12756:1226/170837.179:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
+[14304:12384:1226/170837.216:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[14304:12756:1226/170837.235:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10300:12992:1226/170837.464:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
+[14304:12756:1226/170857.450:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[14304:12756:1226/170857.956:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[13644:7512:1226/170857.999:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
+[14304:10488:1226/170903.353:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14304:10488:1226/170903.386:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14304:10488:1226/171555.012:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14304:10488:1226/171555.019:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[13644:12008:1226/185152.371:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
+[14304:10860:1226/185156.675:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
+[13644:12008:1226/185156.675:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
+[14304:10488:1226/185157.017:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14304:12756:1226/185157.309:ERROR:device_event_log_impl.cc(196)] [18:51:56.987] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13644:12008:1226/185158.848:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
+[14304:12384:1226/185158.848:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
+[13644:12008:1226/185159.849:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
+[14304:10860:1226/185159.859:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
+[14304:12756:1226/185953.605:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
