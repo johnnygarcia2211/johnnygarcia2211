@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Projects/Repositories/unreal test/Unreal/MyTestProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31.uasset"
+				"C:/Projects/Repositories/unreal test/Unreal/MyTestProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31.uasset",
+				"C:/Projects/Repositories/unreal test/Unreal/MyTestProject/Content/Materials/energy_blast.uasset",
+				"C:/Projects/Repositories/unreal test/Unreal/MyTestProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/WX/82R3ATVF0M08HIIW7BMU98.uasset",
+				"C:/Projects/Repositories/unreal test/Unreal/MyTestProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/YT/9HY56BN1B2L24IYPU4JXFN.uasset",
+				"C:/Projects/Repositories/unreal test/Unreal/MyTestProject/Content/Materials/energy_blast_Inst_Plane.uasset",
+				"C:/Projects/Repositories/unreal test/Unreal/MyTestProject/Content/Materials/energy_blast_Inst_Purple.uasset",
+				"C:/Projects/Repositories/unreal test/Unreal/MyTestProject/Content/Materials/energy_blast_Inst_Sphere.uasset"
 			]
 		}
 	]
