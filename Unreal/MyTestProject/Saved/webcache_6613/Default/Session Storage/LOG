@@ -1,3 +1,2 @@
-2025/12/27-10:05:31.107 284c Reusing MANIFEST C:\Projects\Repositories\unreal test\Unreal\MyTestProject\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
-2025/12/27-10:05:31.123 284c Recovering log #3
-2025/12/27-10:05:31.125 284c Reusing old log C:\Projects\Repositories\unreal test\Unreal\MyTestProject\Saved\webcache_6613\Default\Session Storage/000003.log 
+2026/01/04-22:28:18.984 2df0 Creating DB L:\projects\Repositories\Unreal\MyTestProject\Saved\webcache_6613\Default\Session Storage since it was missing.
+2026/01/04-22:28:19.032 2df0 Reusing MANIFEST L:\projects\Repositories\Unreal\MyTestProject\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001

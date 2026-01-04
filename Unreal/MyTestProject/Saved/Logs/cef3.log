@@ -1,32 +1,17 @@
-[6588:5348:1227/100508.244:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[6588:5348:1227/100508.308:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
-[6588:11328:1227/100508.348:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[6588:5348:1227/100508.476:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[13424:16540:1227/100508.925:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
-[6588:5348:1227/100529.858:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[6588:5348:1227/100530.990:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[13304:16536:1227/100531.033:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
-[6588:11880:1227/100535.819:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[6588:11880:1227/100535.827:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[6588:5348:1227/102113.435:ERROR:device_event_log_impl.cc(196)] [10:21:13.423] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[6588:5348:1227/112626.235:ERROR:device_event_log_impl.cc(196)] [11:26:26.225] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[6588:5348:1227/143702.286:ERROR:device_event_log_impl.cc(196)] [14:37:02.269] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[6588:11880:1227/144600.012:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[6588:11880:1227/144600.197:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[13304:13680:1228/080500.190:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
-[6588:408:1228/080502.935:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[6588:408:1228/080502.960:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[13304:13680:1228/080503.019:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[13304:13680:1228/080509.297:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
-[13304:13680:1228/080509.430:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
-[13304:13760:1228/080509.481:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
-[13304:13680:1228/080512.795:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
-[13304:13760:1228/080517.371:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
-[6588:408:1228/080517.372:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
-[6588:16056:1228/080517.885:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
-[6588:5348:1228/080517.886:ERROR:device_event_log_impl.cc(196)] [08:05:17.748] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[6588:11880:1228/080518.800:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[6588:11880:1228/080518.804:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[6588:408:1228/080518.886:ERROR:network_change_notifier_win.cc(188)] WSALookupServiceBegin failed with: 8
-[6588:5348:1228/084320.409:ERROR:device_event_log_impl.cc(196)] [08:43:20.394] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[6588:5348:1228/093942.234:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[36400:5924:0104/222759.736:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[36400:5924:0104/222759.984:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[36400:5924:0104/222800.666:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[36400:8300:0104/222817.153:WARNING:leveldb_database.cc(141)] Unable to open L:\projects\Repositories\Unreal\MyTestProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: L:\projects\Repositories\Unreal\MyTestProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36400:8300:0104/222817.156:WARNING:leveldb_database.cc(141)] Unable to open L:\projects\Repositories\Unreal\MyTestProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: L:\projects\Repositories\Unreal\MyTestProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36400:8300:0104/222817.158:WARNING:leveldb_database.cc(141)] Unable to open L:\projects\Repositories\Unreal\MyTestProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: L:\projects\Repositories\Unreal\MyTestProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36400:8300:0104/222817.160:WARNING:leveldb_database.cc(141)] Unable to open L:\projects\Repositories\Unreal\MyTestProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: L:\projects\Repositories\Unreal\MyTestProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36400:5924:0104/222818.590:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[36400:8504:0104/222819.808:WARNING:leveldb_database.cc(141)] Unable to open L:\projects\Repositories\Unreal\MyTestProject\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: L:\projects\Repositories\Unreal\MyTestProject\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36400:13696:0104/222823.589:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36400:13696:0104/222823.598:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6288:38388:0104/222823.917:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[36400:28772:0104/222824.172:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6288:38388:0104/222824.916:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6288:38388:0104/222836.257:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6288:38388:0104/222848.273:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[36400:5924:0104/223219.538:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
